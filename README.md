@@ -1,4 +1,6 @@
-# Cozy Homes
+
+
+# ❄️ Cozy Homes
 
 Welcome to Cozy Homes! This project aims to provide you with tips and tricks to create a cozy and energy-efficient living space while saving on utilities. Explore our recommendations to reduce energy consumption and lower your utility bills. From simple home upgrades to smart energy-saving habits, we've got you covered. Let's turn your home into a cozy oasis where you can relax, unwind, and save energy in style!
 
